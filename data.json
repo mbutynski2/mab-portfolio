@@ -16,16 +16,16 @@
                             "dropdown_section_class": "col",
                             "dropdown_section": [
                                 {
-                                    "dropdown_title": "Analytics +",
-                                    "dropdown_link": "case-study01.html"
+                                    "dropdown_title": "Flight Pro",
+                                    "dropdown_link": "case-study03.html"
                                 },
                                 {
                                     "dropdown_title": "Innovation Tracker",
                                     "dropdown_link": "case-study02.html"
                                 },
                                 {
-                                    "dropdown_title": "Flight Pro",
-                                    "dropdown_link": "case-study03.html"
+                                    "dropdown_title": "Analytics +",
+                                    "dropdown_link": "case-study01.html"
                                 }
                             ]
                         }
