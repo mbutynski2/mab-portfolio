@@ -16,6 +16,10 @@
                             "dropdown_section_class": "col",
                             "dropdown_section": [
                                 {
+                                    "dropdown_title": "Approval Central",
+                                    "dropdown_link": "case-study04.html"
+                                },
+                                {
                                     "dropdown_title": "Flight Pro",
                                     "dropdown_link": "case-study03.html"
                                 },
