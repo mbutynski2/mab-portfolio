@@ -30,10 +30,20 @@
                                 {
                                     "dropdown_title": "Analytics +",
                                     "dropdown_link": "case-study01.html"
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "dropdown_header": "Foundations",
+                            "dropdown_section_class": "col",
+                            "dropdown_section": [
                                 {
                                     "dropdown_title": "My Journey to UX",
                                     "dropdown_link": "highlights.html"
+                                },
+                                {
+                                    "dropdown_title": "My UX Process",
+                                    "dropdown_link": "ux_process.html"
                                 }
                             ]
                         }
