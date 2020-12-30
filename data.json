@@ -34,15 +34,15 @@
                             ]
                         },
                         {
-                            "dropdown_header": "Foundations",
+                            "dropdown_header": "Foundation",
                             "dropdown_section_class": "col",
                             "dropdown_section": [
                                 {
-                                    "dropdown_title": "My Journey to UX",
+                                    "dropdown_title": "Journey to UX",
                                     "dropdown_link": "highlights.html"
                                 },
                                 {
-                                    "dropdown_title": "My UX Process",
+                                    "dropdown_title": "UX Process",
                                     "dropdown_link": "ux_process.html"
                                 }
                             ]
