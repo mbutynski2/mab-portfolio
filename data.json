@@ -12,7 +12,7 @@
                     "dropdown_column_class": "col-6 col-md-4 col-lg-6",
                     "dropdown_column": [
                         {
-                            "dropdown_header": "Recent Work",
+                            "dropdown_header": "Case Studies",
                             "dropdown_section_class": "col",
                             "dropdown_section": [
                                 {
@@ -34,11 +34,11 @@
                             ]
                         },
                         {
-                            "dropdown_header": "Foundation",
+                            "dropdown_header": "Foundations",
                             "dropdown_section_class": "col",
                             "dropdown_section": [
                                 {
-                                    "dropdown_title": "Journey to UX",
+                                    "dropdown_title": "Project Showcase",
                                     "dropdown_link": "highlights.html"
                                 },
                                 {
